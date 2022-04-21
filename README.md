@@ -1,7 +1,7 @@
 # Health-Care-Chatbot
 
 <p> Team Members 
-    Sai Sreeya T
+    <li>Sai Sreeya T</li>
     Chandana K
     Anujna A
     Anamika

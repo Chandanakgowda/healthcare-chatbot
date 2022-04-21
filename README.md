@@ -1,6 +1,6 @@
 # Health-Care-Chatbot
 
-<h> COOKIE ARMY </h>
+<h> <b>COOKIE ARMY </b> </h>
 
 <p> Team Members 
     <li>Sai Sreeya T</li>

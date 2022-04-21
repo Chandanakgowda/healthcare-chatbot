@@ -1,5 +1,12 @@
 # Health-Care-Chatbot
 
+<p> Team Members 
+    Sai Sreeya T
+    Chandana K
+    Anujna A
+    Anamika
+    </p>
+
 <img src="https://www.scnsoft.com/blog-pictures/healthcare/how-chatbots-and-ai-are-changing-the-healthcare-industry_1.png">
 
     This chatbot will provide quick answers to FAQs by setting up rule-based keyword chatbots 

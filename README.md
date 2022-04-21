@@ -2,9 +2,9 @@
 
 <p> Team Members 
     <li>Sai Sreeya T</li>
-    Chandana K
-    Anujna A
-    Anamika
+    <li>Chandana K</li>
+    <li>Anjuna A</li>
+    <li>Anamika</li>
     </p>
 
 <img src="https://www.scnsoft.com/blog-pictures/healthcare/how-chatbots-and-ai-are-changing-the-healthcare-industry_1.png">
